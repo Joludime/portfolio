@@ -1,4 +1,4 @@
-# 👨‍💻 José Luis Díaz Mendoza - Portfolio
+# 👨‍💻 José Luis Díaz Morujo - Portfolio
 
 [![GitHub followers](https://img.shields.io/github/followers/Joludime?style=social)](https://github.com/Joludime)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/tu-perfil)
